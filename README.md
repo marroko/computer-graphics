@@ -12,3 +12,7 @@ Exercises and personal projects using <b>SFML/wxWidgets</b> libraries. Entirely 
 ##### LAB 02
 
 <img src="lab02/sample.PNG" width="60%" length="60%">
+
+##### LAB 03
+
+<img src="lab03/sample.JPG" width="60%" length="60%">
