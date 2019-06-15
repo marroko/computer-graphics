@@ -1,7 +1,7 @@
 # computer-graphics
 Exercises and personal projects using <b>SFML/wxWidgets</b> libraries. Entirely written in <b>C++</b>.
 
-##### Project on course credit will appear soon!
+### Project on course credit is <a href="https://github.com/serinline/4d-functions-project">HERE</a>
 
 ### Programs samples:
 
